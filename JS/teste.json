@@ -1,0 +1,13 @@
+[
+    {
+        "nome":"Larissa",
+        "idade": 18,
+        "esta_trabalhando": true,
+        "detalhes_prossisao":{
+            "profissao":"Programador",
+            "empresa":"On2"
+        },
+        "hobbies": ["Casos criminais", "Programar","Ler"]
+    }
+]
+
